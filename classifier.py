@@ -1,5 +1,5 @@
-from sklearn.model_selection import train_test_split
-from PyQt5.QtWidgets import QTableWidget,QTableWidgetItem
+# from sklearn.model_selection import train_test_split
+# from PyQt5.QtWidgets import QTableWidget,QTableWidgetItem
 
 import numpy as np
 import matplotlib.pyplot as plt
